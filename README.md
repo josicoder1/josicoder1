@@ -8,7 +8,7 @@
   I enjoy turning ideas into reality through code and continuous learning.
 </p>
 
-<img align="right" alt="Coding GIF" width="380" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding GIF" width="380" src="[https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://img.freepik.com/premium-photo/virtual-meeting-person-video-call-with-abstract-digital-background-remote-communication-concept_980716-623859.jpg?semt=ais_hybrid&w=740&q=80)">
 
 ---
 
