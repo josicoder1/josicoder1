@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hello, I'm Yoseph Tadesse
 
-<!--
-**josicoder1/josicoder1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer | Java Backend Specialist | Student at Haramaya University**
 
-Here are some ideas to get you started:
+I build practical web applications and software solutions, from responsive frontends to real-time backend systems. Passionate about writing clean, maintainable code and learning new technologies. Currently focused on enterprise-grade Java development with modern architectural patterns.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** HTML5, CSS3, JavaScript  
+**Backend:** Java, Spring Boot, PHP, Node.js  
+**Architecture:** Hexagonal Architecture, Domain-Driven Design (DDD), REST APIs, Socket Programming  
+**Tools & Practices:** Git, Responsive Design, Clean Code, Microservices Concepts
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [web-project](https://github.com/josicoder1/web-project) | Responsive web interface | HTML, CSS |
+| [chat-application-by-java](https://github.com/josicoder1/chat-application-by-java) | Real-time chat across multiple machines | Java, Networking |
+| [transport-managment-system](https://github.com/josicoder1/transport-managment-system) | Transport management solution | HTML, Backend |
+| [website-validation](https://github.com/josicoder1/website-validation) | Input validation utilities | PHP |
+| [node_study](https://github.com/josicoder1/node_study) | Node.js learning & experiments | Node.js |
+| [JavaScriptCourse](https://github.com/josicoder1/JavaScriptCourse) | Full JavaScript practice course | JavaScript |
+
+---
+
+## 🏗️ Architecture & Design Focus
+
+I specialize in building applications with **clean architecture principles**:
+
+- **Hexagonal Architecture (Ports & Adapters)** — Decoupling business logic from frameworks and infrastructure
+- **Domain-Driven Design (DDD)** — Modeling complex domains with Entities, Value Objects, Aggregates, and Domain Services
+- **Spring Boot** — Rapid, production-ready Java application development with dependency injection and auto-configuration
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=josicoder1&show_icons=true&theme=default)
+
+---
+
+## 📫 Connect With Me
+
+- Telegram: [@Jossey_mom](https://t.me/Jossey_mom)
+
+---
+
+&gt; *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
