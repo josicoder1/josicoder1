@@ -28,15 +28,7 @@ I build practical web applications and software solutions, from responsive front
 
 ---
 
-## 🏗️ Architecture & Design Focus
 
-I specialize in building applications with **clean architecture principles**:
-
-- **Hexagonal Architecture (Ports & Adapters)** — Decoupling business logic from frameworks and infrastructure
-- **Domain-Driven Design (DDD)** — Modeling complex domains with Entities, Value Objects, Aggregates, and Domain Services
-- **Spring Boot** — Rapid, production-ready Java application development with dependency injection and auto-configuration
-
----
 
 ## 📊 GitHub Stats
 
